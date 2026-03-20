@@ -1,6 +1,6 @@
 expression DatabaseQuery = ```
 		let
-		    database = Sql.Database("4zzdkw4hunvuhp4ttpl5hvkkzm-eymv6lnwhsyuti3a5vo4o44ltq.datawarehouse.fabric.microsoft.com", "sales")
+		    database = Sql.Database("4zzdkw4hunvuhp4ttpl5hvkkzm-lnygrprwrpjuzmran7wfwtfzla.datawarehouse.fabric.microsoft.com", "sales")
 		in
 		    database
 		
