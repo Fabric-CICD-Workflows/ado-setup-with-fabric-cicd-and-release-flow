@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Product Sales Time Intelligence",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9a5aa0a3-b005-b7c1-4a1c-ad837b2e38ba"
+  }
+}
