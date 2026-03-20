@@ -1,0 +1,35 @@
+'core':
+    'workspace_id':
+        'dev': '2d5f1926-3cb6-49b1-a360-ed5dc7738b9c'
+        'test': 'e4f15867-a45f-4f3d-b970-0d9cec635bb8'
+        'prod': 'ad818c23-ea29-4907-9a6a-ae8f995a3aa8'
+    'repository_directory':
+        'dev': '.'
+        'test': '.'
+        'prod': '.'
+    'item_types_in_scope':
+        'dev':
+        - 'Lakehouse'
+        - 'Notebook'
+        - 'DataPipeline'
+        - 'SemanticModel'
+        - 'Report'
+        'test':
+        - 'VariableLibrary'
+        - 'Lakehouse'
+        - 'Notebook'
+        - 'DataPipeline'
+        - 'SemanticModel'
+        - 'Report'
+        'prod':
+        - 'VariableLibrary'
+        - 'Lakehouse'
+        - 'Notebook'
+        - 'DataPipeline'
+        - 'SemanticModel'
+        - 'Report'
+    'parameter':
+        'dev': 'parameter.yml'
+        'test': 'parameter.yml'
+        'prod': 'parameter.yml'
+    'features': 'enable_shortcut_publish'
